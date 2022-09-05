@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+   background: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zNzNiYXRjaDEzLTA4NC1renBzNWR2bC5qcGc.jpg");
     text-align: center;
 }
 input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
@@ -22,7 +22,7 @@ input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
 .header
 {
     font-family: 'Annie Use Your Telescope';
-    background-color: black;
+    background-color: rgb(76, 78, 79);
     color: rgb(241, 173, 173);
     font-size: 25px;
     text-align: center;
